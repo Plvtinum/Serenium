@@ -1,1 +1,1 @@
-worker: node SereniumBot
+worker: node Serenium
